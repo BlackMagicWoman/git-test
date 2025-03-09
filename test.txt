@@ -1,2 +1,4 @@
 Jeszcze
 raz
+teraz
+zadziala
